@@ -7,7 +7,6 @@
 
 <p align="center">
 <strong><a href="https://github.com/TIM1-FSW-BE-BINAR/Frontend">✈️ AirFly</a></strong>
-|
 </p>
 
 
@@ -54,7 +53,7 @@ The goal of the project is to provide a airplane ticket booking service that rel
 
 ## 💻 Tecnology That We Used
 
-#### Core Tech Stack:
+### Core Tech Stack:
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge) 
 - ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge)
@@ -114,4 +113,4 @@ make sure to use the latest version of your browser. and also have real email re
 
 Big thanks to Binar Academy for giving us this opportunity to learn and grow as a developer.
 
-We also want to thank our mentor kak Fahmi and kak Mughie for his guidance and support throughout this project.
+We also want to thank our mentor kak Fahmi and kak Mughie for their guidance and support throughout this project.
