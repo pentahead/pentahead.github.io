@@ -2,9 +2,6 @@
 
 <p align="right">:sparkles:Binar KM-7 Final Project:sparkles:</p>
 <h1 align="center">AirFly </h1>
-
-
-
 <p align="center">
 <strong><a href="https://github.com/TIM1-FSW-BE-BINAR/Frontend">✈️ AirFly</a></strong>
 </p>
