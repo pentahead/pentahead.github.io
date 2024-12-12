@@ -24,7 +24,7 @@ The goal of the project is to provide a airplane ticket booking service that rel
 ## 🚩 MVP
 
 | Output                                                |
-| ----------------------------------------------------- |
+| ----------------------------------------------------- | ------ |
 | Website Pages Is Reachable                            |
 | Feature                                               | Status |
 | ---------------------------------------------------   | ------ |
