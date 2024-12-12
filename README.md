@@ -22,20 +22,23 @@
 The goal of the project is to provide a airplane ticket booking service that reliable and user friendly UI
 
 ## 🚩 MVP
+| Output                                             |
+| -------------------------------------------------- |
+| Website Pages Is Reachable                        |
 
-| Output                                                |
-| ----------------------------------------------------- | ------ |
-| Website Pages Is Reachable                            |
-| Feature                                               | Status |
-| ---------------------------------------------------   | ------ |
-| Responsive: support mobile design                     | ✅     |
-| Authentication: OAuth & OTP                           | ✅     |
-| Testing: Jest + React Testing Library                 | ✅     |
+| Feature                                             | Status |
+| --------------------------------------------------- | ------ |
+| Responsive: support mobile design                  | ✅     |
+| Authentication: OAuth & OTP                        | ✅     |
+| Testing: Jest + React Testing Library              | ✅     |
 | State Management: React Hooks, Tanstack Query / Redux | ✅     |
-| Role: Buyer                                           | ✅     |
-| Deployment: Vercel                                    | ✅     |
-| GIT: Branching                                        | ✅     |
-| Push Notification (additional feature)                | ✅     |
+| Role: Buyer                                        | ✅     |
+| Deployment: Vercel                                 | ✅     |
+| GIT: Branching                                     | ✅     |
+| Push Notification (additional feature)             | ✅     |
+
+
+
 
 ## 🎨 Design
 
